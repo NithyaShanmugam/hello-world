@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:blue;">
+<h1 style="color:red;">my 1st heading</h1>
+<h2>HTML links</h2>
+<p>my 1st paragraph</p>
+<p><a href="https://w3schools.com/html/"></p>
+</body>
+<html>
